@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: red;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#slidinggallery img {
+    width: 500px;
+    height: 400px;
+}
+
+#slidinggallery {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    background-color: firebrick;
+    color: white;
+}
+
+.carousel-content {
+   padding: 50px;
+}
